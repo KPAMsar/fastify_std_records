@@ -7,13 +7,6 @@ This project is a backend API built using Fastify, designed to serve student dat
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Data Handling](#data-handling)
-- [Security](#security)
-- [Error Handling](#error-handling)
-- [Deployment](#deployment)
-- [License](#license)
 
 ## Prerequisites
 
@@ -24,7 +17,7 @@ This project is a backend API built using Fastify, designed to serve student dat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fastify-student-api.git
+   git clone https://github.com/KPAMsar/fastify_std_records.git
    cd fastify-student-api
    ```
 2. Install the dependencies using;
